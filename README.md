@@ -2,7 +2,7 @@
 
 ## 1. Atividades de Suporte Técnico
 Este projeto simula atividades de um profissional de suporte técnico: 
-👉[Clique aqui para visualizar o projeto](https://github.com/diegocastropereira/projetos_suporteTI/blob/main/atividades_suporte).
+👉[Clique aqui para visualizar o projeto](https://github.com/diegocastropereira/projetos_suporteTI/blob/main/atividades_suporte.md).
 ### Inclui:
 - Checklist de atendimento
 - Simulação de chamados técnicos
